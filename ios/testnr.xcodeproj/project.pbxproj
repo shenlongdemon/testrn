@@ -1295,7 +1295,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.omid.testnr;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omid.testnr;
 				PRODUCT_NAME = testnr;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1318,7 +1318,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.omid.testnr;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omid.testnr;
 				PRODUCT_NAME = testnr;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
